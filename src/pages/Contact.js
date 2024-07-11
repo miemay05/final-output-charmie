@@ -55,7 +55,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="instagram" icon={faInstagram} size="3x" />
                       </a>
                       <a
-                        href="https://www.instagram.com/yannavjnte?igsh=MTVkNXFhZW5eWVIMg=="
+                        href=""
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
@@ -63,7 +63,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="twitter" icon={faTwitter} size="3x" />
                       </a>
                       <a
-                        href="https://www.instagram.com/yannavjnte?igsh=MTVkNXFhZW5eWVIMg=="
+                        href="https://www.tiktok.com/@mhieecardiente"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
