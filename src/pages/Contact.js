@@ -32,14 +32,14 @@ const Contact = () => {
                 <button type="submit" className="btn btn-primary fw-bold">Send Message</button>
               </form>
 
-      <section id="contact" className="sisil py-5">
+      <section id="contact" className="meme py-5">
         <div className="container">
           <div className="card">
             <h2 className="text-center mb-5 text-black">My Social Media Accounts</h2>
            
                     <div className="social-icons text-center mt-4">
-                      <a 
-                        href="=="
+                    <a
+                        href="https://www.facebook.com/miemay05"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
@@ -55,7 +55,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="instagram" icon={faInstagram} size="3x" />
                       </a>
                       <a
-                        href="=="
+                        href="https://www.instagram.com/yannavjnte?igsh=MTVkNXFhZW5eWVIMg=="
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
@@ -63,7 +63,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="twitter" icon={faTwitter} size="3x" />
                       </a>
                       <a
-                        href="=="
+                        href="https://www.instagram.com/yannavjnte?igsh=MTVkNXFhZW5eWVIMg=="
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
