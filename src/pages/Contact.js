@@ -47,7 +47,7 @@ const Contact = () => {
                         <FontAwesomeIcon className="facebook" icon={faFacebook} size="3x" />
                       </a>
                       <a
-                        href="=="
+                        href="https://www.instagram.com/charm_crdnt"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
