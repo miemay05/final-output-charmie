@@ -2,7 +2,7 @@ import React from "react";
 import "./Contact.css";
 import Navbar from "./Navbar";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebook, faTwitter, faInstagram, faTiktok } from "@fortawesome/free-brands-svg-icons";
+import { faFacebook, faX, faInstagram, faTiktok } from "@fortawesome/free-brands-svg-icons";
 
 const Contact = () => {
   return (
@@ -55,12 +55,12 @@ const Contact = () => {
                         <FontAwesomeIcon className="instagram" icon={faInstagram} size="3x" />
                       </a>
                       <a
-                        href=""
+                        href="https://x.com/_itzmeCharmz"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="me-4 text-decoration-none"
                       >
-                        <FontAwesomeIcon className="twitter" icon={faTwitter} size="3x" />
+                        <FontAwesomeIcon className="twitter" icon={faX} size="3x" />
                       </a>
                       <a
                         href="https://www.tiktok.com/@mhieecardiente"
